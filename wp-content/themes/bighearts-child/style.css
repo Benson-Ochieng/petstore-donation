@@ -1,0 +1,15 @@
+/*
+Theme Name: BigHearts Child
+Author: WebGeniusLab
+Author URI: http://webgeniuslab.net
+Description: -
+Version: 1.0
+Template: bighearts
+Text Domain: bighearts-child
+*/
+
+
+/*main content padding top*/
+#main{
+	padding: 150px 0 !important;
+}
