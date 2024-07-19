@@ -19,6 +19,14 @@
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.6</generator>
+
+<image>
+	<url>https://benson-ochieng.github.io/petstore-donation/wp-content/uploads/2024/07/Logo_paw_white.png</url>
+	<title>Donation Forms &#8211; Petstore Donation Kenya</title>
+	<link>https://benson-ochieng.github.io/petstore-donation</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
 	<item>
 		<title>Supporting Seniors Every Step of the Way</title>
 		<link>https://benson-ochieng.github.io/petstore-donation/donations/supporting-seniors-every-step-of-the-way/</link>

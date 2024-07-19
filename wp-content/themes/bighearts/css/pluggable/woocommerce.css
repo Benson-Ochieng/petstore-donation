@@ -3740,7 +3740,7 @@ ul.wgl-products li a.wc-forward:hover:before,
 .woocommerce-page .cart-collaterals .cart_totals .title-wrapper:after,
 .wgl-theme-header .mini-cart .woo_mini_cart .title-wrapper:after,
 .woocommerce div.product .woocommerce-product-details__short-description:after {
-  background-color: var(--bighearts-secondary-color);
+  background-color: var(--bighearts-primary-color);
 }
 
 /* ==================== ↓ Extra ====================== */
