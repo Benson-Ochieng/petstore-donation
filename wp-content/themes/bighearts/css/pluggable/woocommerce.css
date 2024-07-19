@@ -2336,7 +2336,7 @@ body.woocommerce-checkout #order_comments {
 body.woocommerce-checkout #payment {
   border: unset;
   padding: 30px;
-  background: url(../../img/checkout.jpg) center center/cover #faf8f5 no-repeat;
+  background: url(https://benson-ochieng.github.io/petstore-donation/wp-content/themes/bighearts/img/checkout.jpg) center center/cover #faf8f5 no-repeat;
   margin-top: 22px;
   border-radius: 10px;
 }
