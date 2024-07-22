@@ -13,3 +13,16 @@ Text Domain: bighearts-child
 #main{
 	padding: 150px 0 !important;
 }
+
+@media screen and (max-width: 1024px) {
+	#main {
+		padding: 40px 0 !important; 
+	}
+	
+	
+	/*Mobile menu*/
+	.primary-nav > ul > li:hover > a,
+	.primary-nav ul li[class*=current] > a {
+  		color: #fff !important;
+	}
+}
