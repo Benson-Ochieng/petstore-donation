@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Campaign &#8211; Petstore Donation Kenya</title>
+	<atom:link href="https://benson-ochieng.github.io/petstore-donation/donations/category/campaign/feed/" rel="self" type="application/rss+xml" />
+	<link>https://benson-ochieng.github.io/petstore-donation</link>
+	<description>We love them as Much as you do.</description>
+	<lastBuildDate>Fri, 26 Jul 2024 07:44:15 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.6.1</generator>
+
+<image>
+	<url>https://benson-ochieng.github.io/petstore-donation/wp-content/uploads/2024/07/Logo_paw_white-1.png</url>
+	<title>Campaign &#8211; Petstore Donation Kenya</title>
+	<link>https://benson-ochieng.github.io/petstore-donation</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Help Puppies by Paying for Veterinarian Services</title>
+		<link>https://benson-ochieng.github.io/petstore-donation/donations/help-puppies-by-paying-for-veterinarian-services/</link>
+		
+		<dc:creator><![CDATA[Ben]]></dc:creator>
+		<pubDate>Tue, 10 Nov 2020 10:07:37 +0000</pubDate>
+				<guid isPermaLink="false">https://bighearts.wgl-demo.net/?post_type=give_forms&#038;p=3685</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Play Area for Cats to Keep  Them Always Active</title>
+		<link>https://benson-ochieng.github.io/petstore-donation/donations/play-area-for-cats-to-keep-them-always-active/</link>
+		
+		<dc:creator><![CDATA[Ben]]></dc:creator>
+		<pubDate>Tue, 10 Nov 2020 09:54:23 +0000</pubDate>
+				<guid isPermaLink="false">https://bighearts.wgl-demo.net/?post_type=give_forms&#038;p=3676</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
