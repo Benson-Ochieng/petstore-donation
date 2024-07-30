@@ -13,7 +13,7 @@ Text Domain: bighearts-child
 #main{
 	padding: 150px 0 !important;
 }
-
+/*---@@---*/
 @media screen and (max-width: 1024px) {
 	#main {
 		padding: 40px 0 !important; 
@@ -26,3 +26,13 @@ Text Domain: bighearts-child
   		color: #fff !important;
 	}
 }
+/*---!!---*/
+
+/*Mobile media query*/
+/*---@@---*/
+@media screen and (max-width: 768px) {
+	.wgl-tabs_headings h4 {
+    	width: 33.3%;
+	}
+}
+/*---!!---*/
