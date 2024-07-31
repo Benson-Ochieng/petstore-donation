@@ -36,3 +36,22 @@ Text Domain: bighearts-child
 	}
 }
 /*---!!---*/
+
+
+/*Campaign form*/
+.campaign-form label{
+	color: #000!important;
+}
+.campaign-form input[type="submit"] {
+	color: white !important;
+   	background-color: #1E5DA7 !important;
+	text-transform: uppercase !important;
+	border-radius: 40px !important;
+    padding: 10px 20px !important;
+	border: 1px solid #fff !important
+}
+.campaign-form input[type="submit"]:hover{
+	color: #1E5DA7 !important;
+	background-color: #fff !important;
+	border: 1px solid #1E5DA7 !important;
+}
